@@ -7,8 +7,13 @@ export default {
     "./src/components/**/*.jsx",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primaryColor: "#6047EC",
+      },
+    },
   },
+
   plugins: [require("daisyui")],
   daisyui: {
     themes: ["light"],

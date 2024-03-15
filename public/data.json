@@ -1,0 +1,42 @@
+[
+  {
+    "cover_img": "img/1.jpg",
+    "auth_img": "https://example.com/author1.jpg",
+    "author_name": "John Doe",
+    "publish_date": "2024-03-15",
+    "reading_time": "10 mins",
+    "title": "Exploring the World of Artificial Intelligence",
+    "tags": ["AI", "Machine Learning", "Technology"],
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget libero malesuada, fringilla arcu eu, vestibulum purus. Aenean et est id eros aliquet dapibus. Nunc maximus nisl non justo fermentum, id consectetur tortor vestibulum. Donec nec risus vitae neque laoreet efficitur. Suspendisse potenti. Cras quis lorem at sem lacinia rhoncus sit amet eu magna. Fusce nec justo eget libero rutrum tempus. Sed ut consequat sapien. Integer hendrerit ligula ac mi eleifend sodales."
+  },
+  {
+    "cover_img": "https://example.com/cover2.jpg",
+    "auth_img": "https://example.com/author2.jpg",
+    "author_name": "Jane Smith",
+    "publish_date": "2024-03-16",
+    "reading_time": "8 mins",
+    "title": "The Impact of Climate Change on Biodiversity",
+    "tags": ["Environment", "Climate Change", "Biodiversity"],
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget libero malesuada, fringilla arcu eu, vestibulum purus. Aenean et est id eros aliquet dapibus. Nunc maximus nisl non justo fermentum, id consectetur tortor vestibulum. Donec nec risus vitae neque laoreet efficitur. Suspendisse potenti. Cras quis lorem at sem lacinia rhoncus sit amet eu magna. Fusce nec justo eget libero rutrum tempus. Sed ut consequat sapien. Integer hendrerit ligula ac mi eleifend sodales."
+  },
+  {
+    "cover_img": "https://example.com/cover3.jpg",
+    "auth_img": "https://example.com/author3.jpg",
+    "author_name": "David Brown",
+    "publish_date": "2024-03-17",
+    "reading_time": "12 mins",
+    "title": "The Art of Cooking: Exploring Culinary Delights",
+    "tags": ["Food", "Cooking", "Cuisine"],
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget libero malesuada, fringilla arcu eu, vestibulum purus. Aenean et est id eros aliquet dapibus. Nunc maximus nisl non justo fermentum, id consectetur tortor vestibulum. Donec nec risus vitae neque laoreet efficitur. Suspendisse potenti. Cras quis lorem at sem lacinia rhoncus sit amet eu magna. Fusce nec justo eget libero rutrum tempus. Sed ut consequat sapien. Integer hendrerit ligula ac mi eleifend sodales."
+  },
+  {
+    "cover_img": "https://example.com/cover4.jpg",
+    "auth_img": "https://example.com/author4.jpg",
+    "author_name": "Emily Johnson",
+    "publish_date": "2024-03-18",
+    "reading_time": "15 mins",
+    "title": "Unlocking Creativity: The Power of Art Therapy",
+    "tags": ["Art", "Therapy", "Mental Health"],
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget libero malesuada, fringilla arcu eu, vestibulum purus. Aenean et est id eros aliquet dapibus. Nunc maximus nisl non justo fermentum, id consectetur tortor vestibulum. Donec nec risus vitae neque laoreet efficitur. Suspendisse potenti. Cras quis lorem at sem lacinia rhoncus sit amet eu magna. Fusce nec justo eget libero rutrum tempus. Sed ut consequat sapien. Integer hendrerit ligula ac mi eleifend sodales."
+  }
+]

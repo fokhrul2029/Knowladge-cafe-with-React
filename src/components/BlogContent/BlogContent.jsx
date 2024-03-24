@@ -28,7 +28,6 @@ function BlogContent() {
               />
             ))}
           </div>
-
           <Bookmarks items={bookmarks}></Bookmarks>
         </div>
       </div>

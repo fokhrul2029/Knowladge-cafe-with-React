@@ -1,5 +1,6 @@
+/* eslint-disable react/no-unknown-property */
 /* eslint-disable react/prop-types */
-function Blogs({ blog }) {
+function Blogs({ blog, handleBookmark }) {
   const {
     cover_img,
     auth_img,
@@ -40,7 +41,10 @@ function Blogs({ blog }) {
         ))}
       </div>
       <div>
-        <button className="text-primaryColor font-semibold text-xl">
+        <button
+          onClick={() => handleBookmark(blog)}
+          className="text-primaryColor font-semibold text-xl"
+        >
           Mark as read
         </button>
       </div>
